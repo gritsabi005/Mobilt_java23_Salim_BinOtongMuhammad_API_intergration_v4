@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1083501917842",
+    "project_id": "openweather-eeb00",
+    "storage_bucket": "openweather-eeb00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083501917842:android:5f23168e287b232a5f584b",
+        "android_client_info": {
+          "package_name": "com.example.openweather"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdqBJdC4JDlCTqRJvviolzp4m85hoX4PY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
